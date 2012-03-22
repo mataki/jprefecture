@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "jprefecture/version"
 
 Gem::Specification.new do |s|
-  s.name        = "JPrefecture"
+  s.name        = "jprefecture"
   s.version     = JPrefecture::VERSION
   s.authors     = ["Akihiro Matsumura"]
   s.email       = ["matsumura.aki@gmail.com"]
